@@ -7,7 +7,7 @@ Bookmarks for conferences I should track and sometimes attend
 | [SoCraTes Drôme](https://socrates-fr.github.io/) | Montpellier    | Open Space | Mars              |
 | [Devoxx France](https://www.devoxx.fr/)    | Paris                | Nov. Jan.  | Avril             | 
 | [SoCraTes](https://socrates-rennes.github.io/) | Rennes           | Open Space | Avril             |
-| [Lyo Craft](https://lyon-craft.fr/)        | Lyon                 |            | Avril             |
+| [Lyon Craft](https://lyon-craft.fr/)       | Lyon                 |            | Avril             |
 | [MiXiT](https://mixitconf.org)             | Lyon                 |            | Mai               |
 | [AlpesCraft](https://www.alpescraft.fr/)   | Grenoble             |            | Mai               |
 | [France API](https://franceapi.fr)         | Paris                |            | Juin              |
