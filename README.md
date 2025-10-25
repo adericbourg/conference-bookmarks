@@ -5,7 +5,7 @@ Bookmarks for conferences I should track and sometimes attend
 |--------------------------------------------|----------------------|------------|-------------------|
 | [Touraine Tech](https://touraine.tech/)    | Tours                | Oct. Nov   | Février           |
 | [SoCraTes Drôme](https://socrates-fr.github.io/) | Montpellier    | Open Space | Mars              |
-| [Devoxx] France(https://www.devoxx.fr/)    | Paris                | Nov. Jan.  | Avril             | 
+| [Devoxx France](https://www.devoxx.fr/)    | Paris                | Nov. Jan.  | Avril             | 
 | [SoCraTes](https://socrates-rennes.github.io/) | Rennes           | Open Space | Avril             |
 | [Lyo Craft](https://lyon-craft.fr/)        | Lyon                 |            | Avril             |
 | [MiXiT](https://mixitconf.org)             | Lyon                 |            | Mai               |
