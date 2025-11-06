@@ -20,6 +20,7 @@ Bookmarks for conferences I should track and sometimes attend
 | [DevFest Nantes](https://devfest.gdgnantes.com) | Nantes          |            | Octobre           |
 | [Nantes Craft](https://www.nantes-craft.fr/) | Nantes             |            | Octobre           |
 | [Devoxx](https://devoxx.be/)               | Bruxelles            |            | Octobre           |
+| [Numérique en Commun[s]](https://numerique-en-communs.fr/) | Strasbourg |      | Octobre           |
 | [NewCrafts Paris](https://ncrafts.io/)     | Paris                |            | Novembre          |
 | [BDX I/O](https://bdxio.fr/)               | Bordeaux             |            | Novembre          |
 | [Codeurs en Seine](https://www.codeursenseine.com) | Rouen        |            | Novembre          |
