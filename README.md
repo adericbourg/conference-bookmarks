@@ -14,6 +14,7 @@ Bookmarks for conferences I should track and sometimes attend
 | [DevLille](https://devlille.fr/)           | Lille                |            | Juin              |
 | [BreizhCamp](https://www.breizhcamp.org)   | Rennes               |            | Juin              |
 | [Geek Camp de printemps](https://okiwi.org/geek-camp/) | Ruffiac (47) | Open Space | Juin          |
+| [DevQuest](https://www.devquest.fr/)       | Niort                |            | Juin              |
 | [JUG Summer Camp](https://www.jugsummercamp.org) | La Rochelle    |            | Septembre         |
 | [Geek Camp d'autonme](https://okiwi.org/geek-camp/) | Ruffiac (47) | Open Space | Septembre        |
 | [VolCamp](https://www.volcamp.io/)         | Clermont-Ferrand     |            | Octobre           |
