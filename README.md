@@ -25,4 +25,5 @@ Bookmarks for conferences I should track and sometimes attend
 | [NewCrafts Paris](https://ncrafts.io/)     | Paris                |            | Novembre          |
 | [BDX I/O](https://bdxio.fr/)               | Bordeaux             |            | Novembre          |
 | [Codeurs en Seine](https://www.codeursenseine.com) | Rouen        |            | Novembre          |
+| [DevOps REX](https://www.devopsrex.fr/)    | Paris                |            | Décembre          |
 | Pas Sage En seine                          | Île de France        |            |                   |
